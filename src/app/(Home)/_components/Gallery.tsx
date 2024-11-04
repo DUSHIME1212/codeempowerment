@@ -8,7 +8,8 @@ interface GalleryItem {
   title: string;
   img: string;
   description: string;
-  id: number; // Added id property to GalleryItem
+  id: number; 
+  tags?: string[]; 
 }
 
 const Gallery = () => {
