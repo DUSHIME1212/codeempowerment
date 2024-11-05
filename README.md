@@ -1,29 +1,15 @@
-# Create T3 App
+# Code Empowerment Progress
 
-This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+Code Empowerment Progress is an impact-driven organization working to promote inclusive education in technology and to close the gender gap. Our programs aim to educate, inspire, and equip the young generation with computing skills and other valuable life skills. Code Empowerment Progress is now mission-based, emphasizing our commitment to making a positive difference.
 
-## What's next? How do I make an app with this?
+## Our Mission
 
-We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
+We strive to create a more inclusive and equitable tech industry by providing opportunities for underrepresented groups to develop their skills and pursue careers in technology.
 
-If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
+## Get Involved
 
-- [Next.js](https://nextjs.org)
-- [NextAuth.js](https://next-auth.js.org)
-- [Prisma](https://prisma.io)
-- [Drizzle](https://orm.drizzle.team)
-- [Tailwind CSS](https://tailwindcss.com)
-- [tRPC](https://trpc.io)
+If you're passionate about making a difference in the lives of young people and promoting diversity in tech, we invite you to join our community and support our mission.
 
 ## Learn More
 
-To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
-
-- [Documentation](https://create.t3.gg/)
-- [Learn the T3 Stack](https://create.t3.gg/en/faq#what-learning-resources-are-currently-available) — Check out these awesome tutorials
-
-You can check out the [create-t3-app GitHub repository](https://github.com/t3-oss/create-t3-app) — your feedback and contributions are welcome!
-
-## How do I deploy this?
-
-Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
+For more information about our programs, initiatives, and how you can get involved, please visit our website or contact us directly.
