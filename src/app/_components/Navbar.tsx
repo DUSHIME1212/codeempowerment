@@ -10,7 +10,7 @@ const Navbar = () => {
   const links = [
     { title: "Home", link: "/" },
     { title: "About", link: "/about" },
-    { title: "Services", link: "/services" },
+    { title: "Projects", link: "/projects" },
     { title: "Contact", link: "/contact" },
   ];
   
@@ -52,7 +52,7 @@ const Navbar = () => {
                 {item.title}
               </Link>
             ))}
-            <Button className="bg-yellow-500">Explore now</Button>
+            <Button variant={"gooeyLeft"} className="bg-yellow-500">Explore now</Button>
           </div>
         </div>
       </nav>
